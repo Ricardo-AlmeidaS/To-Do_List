@@ -18,7 +18,7 @@ To-Do_List é uma aplicação simples de listagem de tarefas desenvolvida em Jav
 - Java JDK 17 ou superior
 - Maven
 
-## Dependencias Utilizadas
+## Dependências Utilizadas
 
 - Spring Boot DevTools
 - Spring Data JPA
