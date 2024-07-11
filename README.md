@@ -13,7 +13,12 @@ To-Do_List é uma aplicação simples de listagem de tarefas desenvolvida em Jav
 - Validação de Dados: Utiliza Spring Validation para garantir que as entradas de dados sejam válidas.
 - Armazenamento: Utiliza um banco de dados H2 em memória para persistência dos dados.
 
-## Tecnologias Utilizadas
+## Pré-requisitos
+
+- Java JDK 17 ou superior
+- Maven
+
+## Dependencias Utilizadas
 
 - Spring Boot DevTools
 - Spring Data JPA
@@ -21,12 +26,6 @@ To-Do_List é uma aplicação simples de listagem de tarefas desenvolvida em Jav
 - Validation
 - Thymeleaf
 - H2 Database
-- HTML (para o Frontend)
-
-## Pré-requisitos
-
-- Java JDK 17 ou superior
-- Maven
 
 ## Como Executar
 
